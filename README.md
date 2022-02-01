@@ -18,3 +18,6 @@ Web3 RPC Location from the 'truffle.js' file.
 6. 'truffle test'- Run the rest suite ( There are no current test at this moment)
 
 If you `npm run start`, the app will be available at <http://localhost:3001>.
+
+
+![SolidityAuction](https://user-images.githubusercontent.com/59753390/152060676-1c4c8491-2dc5-4a73-869f-f023973bac98.png)
